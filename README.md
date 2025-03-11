@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AboveZtars
-- 👀 I’m interested in Web Development (Fullstack) and Blockchain Development
-- 🌱 Blockchain Developer, Solidity, Ethers, Hardhat
+- 👀 I’m interested in Web Development (Fullstack) and AI
 - 📫 You can reach me at rafael@molina-aquino.com
 
 <!---
